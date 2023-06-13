@@ -22,6 +22,9 @@ run the prgram and predict the output
 
 ## Program:
 ```
+## Developed by: DIVYA K
+## REG no:212222230035
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("/content/cars (1).csv")
